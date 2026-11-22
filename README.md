@@ -8,7 +8,7 @@ Exercises for the course **Object Oriented Programming & Design Patterns in Pyth
 | `02-git` | Git mini exo | 26 |
 | [`03-oop`](03-oop) | OOP practice: operator overloading & inheritance | 67 |
 | [`04-uml`](04-uml) | UML: hospital management system & ABCD Records | 68 |
-| `05-design-patterns` | Creational, structural and behavioral patterns | 84 |
+| [`05-design-patterns`](05-design-patterns) | Creational, structural and behavioral patterns | 84 |
 
 ## 03-oop
 
